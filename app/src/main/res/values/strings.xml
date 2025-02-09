@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">assignment2</string>
+    <string name="default_web_client_id"> 481804605161-tihavep92902cnu8k0tesalhdrfjmjhd.apps.googleusercontent.com </string>
+
+    <string name="facebook_app_id">1474924563177116</string>
+    <string name="fb_login_protocol_scheme">fb1474924563177116</string>
+    <string name="facebook_client_token">4f617268910cdf01a853d5d9c4246313</string>
+</resources>
